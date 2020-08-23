@@ -304,3 +304,20 @@ age: 23
 
 - 3.使用建構函數
 
+## 參考資料
+
+[如何使用運算子 (Operators)](https://michaelchen.tech/c-programming/operator/)
+
+[JavaScript 101 快速入門教學](https://blog.techbridge.cc/2017/01/14/javascript101-tutorial/)
+
+[從ES6開始的Javascript學習生活](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part3/loop.html)
+
+[給開發者的網頁技術文件請參考](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions)
+
+[JavaScript switch 語法](https://www.fooish.com/javascript/switch-case.html)
+
+[JavaScript Function (函數)](https://www.fooish.com/javascript/function.html)
+
+[JavaScript Switch 语句](https://www.w3school.com.cn/js/js_switch.asp)
+
+[你懂 JavaScript 嗎？#17 物件（Object）](https://cythilya.github.io/2018/10/24/object/)
